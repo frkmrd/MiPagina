@@ -1,0 +1,42 @@
+#cabezera{
+	width: 802px;
+	height:500px;
+	margin: 0 auto;
+	background-color: black;
+}
+#nombre{
+	width: 800px;
+	height: 100px;
+	margin: 0 auto;
+	background-color:navy; 
+}
+#slider{
+	width: 780px;
+	height: 370px;
+	margin: 0 auto;
+	background-color: silver;
+}
+#menu{
+	width: 800px;
+	height: 30px;
+	margin:  0 auto;
+	background-color: red;
+}
+#cuerpo{
+	width: 800px;
+	height: 650px;
+	margin: 0 auto;
+	background-color: #8829D5;
+}
+#pie{
+	width: 800px;
+	height: 100px;
+	margin:0 auto;
+	background-color: olive;
+}
+#mapa{
+	width: 800px;
+	height: 250px;
+	background-color: orange;
+	margin:0 auto; 
+}

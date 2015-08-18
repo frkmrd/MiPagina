@@ -10,7 +10,9 @@
 	<div id="cabezera">
 		<div id="nombre"></div>
 		<div id="slider"></div>
-		<div id="menu"></div>
+		<div id="menu 1"></div>
+		<div id="menu 2"></div>
+		<div id="menu 3"></div>
 	</div>
 	<div id="cuerpo"></div>
 	<div id="pie"></div>
